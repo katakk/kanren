@@ -67,6 +67,7 @@ BOOL CkanrenApp::InitInstance()
 
 	//              EXT              DESC                ICON
 	SetFileType(    _T(".ts")       , _T("*** .ts ***")                           , NULL );
+	SetFileType(    _T(".mp4")      , _T("äÆóπÉ^ÉXÉN (mp4)")                      , NULL );
 
 	SetFileType(    _T(".cnf")      , _T("ê›íË")                                  , NULL );
 	SetFileType(    _T(".conf")     , _T("ê›íË")                                  , NULL );
